@@ -9,6 +9,7 @@ Chess Data Analysis: Predictive modeling of match outcomes using Python, Scikit-
 
 Video Game Analysis: : Analyzed sales data from online video game store to create an EDA report that determines
 whether a game succeeds or not. Tools include Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, SciPy, Seaborn.
+
 Technical Skills: Python, SQL, Pandas, Scikit-learn, Matplotlib, Machine Learning, Data Visualization
 
 Feel free to explore my repositories to see how I tackle problems, write clean code, and build impactful solutions. Let’s collaborate and create something amazing!
