@@ -6,7 +6,7 @@ Welcome to my GitHub! I specialize in leveraging data to create actionable insig
 Key Projects:
 
 Chess Data Analysis: Predictive modeling of match outcomes using Python, Scikit-learn, and Pandas.
-Video Game Analysis: : Analyzed sales data from online video game store to create an EDA report that determines
+  Video Game Analysis: : Analyzed sales data from online video game store to create an EDA report that determines
 whether a game succeeds or not. Tools include Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, SciPy, Seaborn.
 Technical Skills: Python, SQL, Pandas, Scikit-learn, Matplotlib, Machine Learning, Data Visualization
 
